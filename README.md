@@ -2,12 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br/>
-  Cloud • Security • Backend
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shaurya-k-sharma-9a39013b2/">LinkedIn</a> ·
-  <a href="mailto:shauryaksharma24@gmail.com">Email</a>
+  Cloud | Security | Backend
 </p>
 
 ## Engineering Snapshot
@@ -22,10 +17,25 @@
 
 ## Featured Projects
 
-| Project | Purpose | Technologies | Engineering concepts demonstrated |
-| --- | --- | --- | --- |
-| [Insider Threat Detection](https://github.com/SHAURYAKSHARMA24/insider-threat-detection) | Explainable, behaviour-based insider threat detection that scores anomalous user activity against per-user statistical baselines and surfaces it with severity labels and human-readable reasons for analyst review. | Python, Flask, SQLite, pytest | Per-user baselining, Z-score deviation scoring, configurable severity thresholds, explainable reasoning, JSON APIs, reproducible labelled evaluation, continuous integration |
-| [AzureVista](https://github.com/SHAURYAKSHARMA24/azurevista-cw2) | Cloud-native image-sharing application that separates image binaries from searchable metadata, exposes REST CRUD endpoints, and emits monitoring telemetry for observability evidence. | React, Vite, Node.js, Azure Functions, Cosmos DB, Blob Storage, Application Insights | Serverless REST APIs, binary/metadata storage separation, partitioned NoSQL data modelling, telemetry and monitoring, deployment to Azure |
+### [Insider Threat Detection](https://github.com/SHAURYAKSHARMA24/insider-threat-detection)
+
+Explainable, behaviour-based insider threat detection that scores anomalous user activity against each user's normal activity patterns.
+
+**Tech stack:** Python, Flask, SQLite, pytest
+
+- Builds per-user statistical baselines to compare activity against individual behaviour rather than broad global averages.
+- Uses Z-score deviation scoring and configurable severity thresholds to label suspicious activity for analyst review.
+- Exposes JSON APIs with human-readable reasons, reproducible labelled evaluation, pytest coverage, and CI checks.
+
+### [AzureVista](https://github.com/SHAURYAKSHARMA24/azurevista-cw2)
+
+Cloud-native image-sharing application with serverless APIs, separate binary and metadata storage, and observability evidence.
+
+**Tech stack:** React, Vite, Node.js, Azure Functions, Cosmos DB, Blob Storage, Application Insights
+
+- Implements REST CRUD endpoints with Azure Functions and a React/Vite frontend.
+- Separates image binaries in Blob Storage from searchable metadata in Cosmos DB.
+- Uses Application Insights telemetry and Azure deployment evidence to demonstrate cloud monitoring and operations.
 
 ## Technical Surface
 
@@ -40,7 +50,7 @@
 
 ## Open Source
 
-[OpenShield](https://github.com/openshield-org/openshield) is an open-source Azure Cloud Security Posture Management (CSPM) platform in the OWASP ecosystem — a free alternative to tools like Wiz and Prisma Cloud. My contributions focus on reliable scanner logic, validating behaviour against real Azure resources, and collaborating through GitHub pull requests.
+[OpenShield](https://github.com/openshield-org/openshield) is an open-source Azure Cloud Security Posture Management platform in the OWASP ecosystem. I have 6 public PRs focused on scanner logic, Azure resource validation, AI insights, frontend/API validation documentation, and remediation evidence.
 
 PR history: [openshield-org/openshield pull requests](https://github.com/openshield-org/openshield/pulls?q=is%3Apr+author%3ASHAURYAKSHARMA24)
 
@@ -48,9 +58,9 @@ PR history: [openshield-org/openshield pull requests](https://github.com/openshi
 
 Areas explored through Computing Systems coursework and project work:
 
-`Software Engineering` · `Cloud-Native Development` · `Systems Security` · `Anomaly Detection` · `Data Analytics` · `REST APIs` · `NoSQL Data Modelling` · `CI/CD` · `Agile` · `Scrum`
+`Software Engineering`, `Cloud-Native Development`, `Systems Security`, `Anomaly Detection`, `Data Analytics`, `REST APIs`, `NoSQL Data Modelling`, `CI/CD`, `Agile`, `Scrum`
 
 ## Contact
 
-LinkedIn: [linkedin.com/in/shaurya-k-sharma](https://www.linkedin.com/in/shaurya-k-sharma-9a39013b2/)<br/>
+LinkedIn: [linkedin.com/in/shaurya-k-sharma-9a39013b2](https://www.linkedin.com/in/shaurya-k-sharma-9a39013b2/)<br/>
 Email: [shauryaksharma24@gmail.com](mailto:shauryaksharma24@gmail.com)
