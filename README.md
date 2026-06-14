@@ -25,6 +25,7 @@
 | Project | Purpose | Technologies | Engineering concepts demonstrated |
 | --- | --- | --- | --- |
 | [Insider Threat Detection](https://github.com/SHAURYAKSHARMA24/insider-threat-detection) | Explainable, behaviour-based insider threat detection that scores anomalous user activity against per-user statistical baselines and surfaces it with severity labels and human-readable reasons for analyst review. | Python, Flask, SQLite, pytest | Per-user baselining, Z-score deviation scoring, configurable severity thresholds, explainable reasoning, JSON APIs, reproducible labelled evaluation, continuous integration |
+| [AzureVista](https://github.com/SHAURYAKSHARMA24/azurevista-cw2) | Cloud-native image-sharing application that separates image binaries from searchable metadata, exposes REST CRUD endpoints, and emits monitoring telemetry for observability evidence. | React, Vite, Node.js, Azure Functions, Cosmos DB, Blob Storage, Application Insights | Serverless REST APIs, binary/metadata storage separation, partitioned NoSQL data modelling, telemetry and monitoring, deployment to Azure |
 
 ## Technical Surface
 
