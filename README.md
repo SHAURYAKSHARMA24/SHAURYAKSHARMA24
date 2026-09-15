@@ -2,7 +2,7 @@
 
 **Backend and security-focused software engineer building reliable cloud systems and evidence-driven developer tooling.**
 
-Based in London · BSc (Hons) Computing Systems, Ulster University · Open to graduate and junior software engineering roles
+BSc (Hons) Computing Systems, Ulster University · Open to graduate and junior software engineering roles
 
 [LinkedIn](https://www.linkedin.com/in/shaurya-k-sharma-9a39013b2/) · [Email](mailto:shauryaksharma24@gmail.com)
 
@@ -10,7 +10,7 @@ Based in London · BSc (Hons) Computing Systems, Ulster University · Open to gr
 
 I work on systems where correctness depends on more than the happy path: durable state transitions, explicit security boundaries, reproducible analysis, observable failures, and tests that exercise recovery behaviour.
 
-My public work spans backend reliability, cloud-security tooling, source-code intelligence, REST APIs, data persistence, CI, and production-readiness engineering. I favour designs that make claims traceable to code or data and make failure modes visible to operators and users.
+My public work centres on backend reliability, cloud-security tooling and source-code intelligence. I favour designs that make claims traceable to code or data and make failure modes visible to operators and users.
 
 ## Open-source engineering
 
@@ -48,7 +48,7 @@ The repository contains a deterministic synthetic-data pipeline, JSON and CSV AP
 
 A deployed cloud-native coursework application with a React/Vite frontend and Node.js Azure Functions API. Image binaries are stored in Azure Blob Storage while partitioned metadata is stored in Cosmos DB; Application Insights captures request and operation telemetry. GitHub Actions builds the frontend, checks the API, and deploys the App Service frontend. The repository documents its prototype limits, including demo identity, public media access, and the need for automated integration tests before production use.
 
-## Technical stack
+## Engineering toolkit
 
 | Area | Technologies and practices |
 | --- | --- |
